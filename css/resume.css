@@ -190,3 +190,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+svg {
+  vertical-align: baseline;
+  padding-top: 4px;
+}

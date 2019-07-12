@@ -14,3 +14,8 @@ a {
     color: darken($primary, 15%);
   }
 }
+
+svg {
+  vertical-align: baseline;
+  padding-top: 4px;
+}
